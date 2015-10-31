@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake", "Snake\Snake.vcproj", "{8D0F2E52-8297-4FA8-9193-CF34BC059F1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DDE1077-B52C-467B-830A-013B2691C6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0F2E52-8297-4FA8-9193-CF34BC059F1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D0F2E52-8297-4FA8-9193-CF34BC059F1F}.Debug|Win32.Build.0 = Debug|Win32
+		{8D0F2E52-8297-4FA8-9193-CF34BC059F1F}.Release|Win32.ActiveCfg = Release|Win32
+		{8D0F2E52-8297-4FA8-9193-CF34BC059F1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
